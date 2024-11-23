@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mr5405750@gmail.com**
 
-- ⚡ Fun fact **Coffee is drunk without sugar I really like playing minecraft**
+- ⚡ Fun fact **Coffee is drunk without sugar and I really like to play Minecraft**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
