@@ -1,6 +1,6 @@
-<!-- 🌙 Clean, modern GitHub profile — all original content preserved -->
+<!-- ⚡ Neon Minimal GitHub Profile - Clean, modern & aesthetic -->
 
-<h1 align="center">Hi 👋, I'm Marcelo</h1>
+<h1 align="center">Hi 👋, I'm <strong>Marcelo</strong></h1>
 
 <h3 align="center">
   🚀 A passionate Information Systems Engineering student from Nicaragua 🇳🇮<br>
@@ -10,17 +10,17 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcelomartinez7&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=marcelomartinez7&label=Profile%20views&color=00eaff&style=for-the-badge" alt="Profile views" />
   &nbsp;
   <a href="https://twitter.com/not_is_marseloo" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/not_is_marseloo?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/not_is_marseloo?logo=twitter&style=for-the-badge&color=00eaff" alt="Twitter Follow" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222a5c,100:ff8f2a&height=140&section=header&text=Welcome%20to%20my%20profile!&fontColor=ffffff&fontAlignY=35&fontSize=28" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,100:00eaff&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontColor=ffffff&fontAlignY=35&fontSize=28&fontAlign=50" />
 </div>
 
 ---
@@ -37,10 +37,10 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/not_is_marseloo" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://fb.com/marcelo martinez rocha" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-  <a href="https://instagram.com/marcelo_m4rtinezzzz" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.youtube.com/c/marcelo enrique martinez rocha" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
+  <a href="https://twitter.com/not_is_marseloo" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="42"/></a>
+  <a href="https://fb.com/marcelo martinez rocha" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="42"/></a>
+  <a href="https://instagram.com/marcelo_m4rtinezzzz" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="42"/></a>
+  <a href="https://www.youtube.com/c/marcelo enrique martinez rocha" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="42"/></a>
 </p>
 
 ---
@@ -49,6 +49,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,js,java,git,firebase,mysql,gcp,figma" height="48" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,vscode" height="48" />
 </p>
 
 ---
@@ -56,14 +58,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcelomartinez7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomartinez7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcelomartinez7&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00eaff&icon_color=00eaff" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomartinez7&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00eaff" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelomartinez7&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelomartinez7&theme=react&hide_border=true&background=0D1117&ring=00eaff&fire=00eaff&currStreakLabel=00eaff" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8f2a,100:222a5c&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:001122&height=120&section=footer"/>
 </div>
